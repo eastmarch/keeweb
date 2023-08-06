@@ -2,8 +2,9 @@
     "settings": {
         "webdav": false,
         "gdrive": false,
-        "dropbox": false,
-        "onedrive": true,
-        "onedriveClientId": "52bef0fc-fd7d-41dc-9926-9b8dab9b897a"
+        "dropbox": true,
+        "onedrive": false,
+        "dropboxAppKey": "5s1lrqmbmruu3ey",
+        "dropboxSecret": "9x2hxrym7toi3nu"
     }
 }
