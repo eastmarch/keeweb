@@ -4,6 +4,7 @@
         "gdrive": false,
         "dropbox": false,
         "onedrive": true,
-        "onedriveClientId": "52bef0fc-fd7d-41dc-9926-9b8dab9b897a"
+        "onedriveClientId": "52bef0fc-fd7d-41dc-9926-9b8dab9b897a",
+        "onedriveTenantId": "7e4752b6-9f98-4b59-b074-82649d96f10a"
     }
 }
