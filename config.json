@@ -1,8 +1,9 @@
 {
     "settings": {
+        "webdav": false,
         "gdrive": false,
         "dropbox": false,
         "onedrive": true,
-        "onedriveClientId": "b332bf19-2f9c-4d1d-a57b-70aa67e2efbd"
+        "onedriveClientId": "52bef0fc-fd7d-41dc-9926-9b8dab9b897a"
     }
 }
