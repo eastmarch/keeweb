@@ -1,6 +1,8 @@
 {
     "settings": {
-        "dropboxAppKey": "5s1lrqmbmruu3ey",
-        "dropboxSecret": "9x2hxrym7toi3nu"
+        "gdrive": false,
+        "dropbox": false,
+        "onedrive": true,
+        "onedriveClientId": "b332bf19-2f9c-4d1d-a57b-70aa67e2efbd"
     }
 }
